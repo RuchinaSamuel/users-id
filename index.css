@@ -1,0 +1,278 @@
+
+body{
+font-family: Georgia, 'Times New Roman', Times, serif;
+max-height: 100vh;
+width: 100%;
+ margin-right: 40px;
+margin-left: 40px;
+margin-top: 40px;
+  
+}
+ 
+
+
+#tableA,#tableB, #tableC, #tableD, #tableE, #tableF, #tableG, #tableH, #tableI, #tableJ{
+display: table-cell;
+height: 300px;
+width: 400px;
+border-radius: 8px;
+margin-bottom: 20px;
+font-size: 1rem;
+color: black;
+text-align: center;
+line-height: 25px;
+background-color: rgb(235, 231, 231);
+
+
+
+}
+
+#table2{
+ display: table-cell;
+height: 300px ;
+width: 10px;
+border-radius: 8px;
+}
+
+#table3{
+    display: table-cell;
+   height: 10px ;
+   width: 186vh;
+   border-radius: 8px;
+   }
+
+
+  
+
+   
+@media only screen and (max-width: 600px){
+
+    body{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        max-height: 100vh;
+        width: 100%;
+        margin-right: 40px;
+        margin-left: 40px;
+        margin-top: 40px;
+        
+
+        }
+        
+        
+        
+        #tableA,#tableB, #tableC, #tableD, #tableE, #tableF, #tableG, #tableH, #tableI, #tableJ{
+        height: 500px;
+        width: 300px;
+        border-radius: 8px;
+        margin-bottom: 20px;
+        display: flex;
+        font-size: 1rem;
+        color: black;
+        text-align: center;
+        background-color: rgb(172, 199, 50);
+        
+        }
+        
+          #table2{
+         display: flex;
+        height: 6px ;
+        width: 6px;
+      
+       
+}
+        
+        #table3{
+            display: flex;
+           height: 9px ;
+           width: 9px;
+         
+           } 
+                     
+};
+  
+@media only screen and (min-width: 600px){
+ 
+    body{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        max-height: 100vh;
+        width: 100%;
+        margin-right: 40px;
+        margin-left: 40px;
+        margin-top: 40px;
+        
+
+        }
+        
+        h1{ 
+        text-align: center;
+        color: green;
+        font-size: 2rem;
+        
+        }
+        
+        
+        #tableA,#tableB, #tableC, #tableD, #tableE, #tableF, #tableG, #tableH, #tableI, #tableJ{
+        height: 500px;
+        width: 300px;
+        border-radius: 8px;
+        margin-bottom: 20px;
+        display: flex;
+        font-size: 1rem;
+        color: black;
+        text-align: center;
+        background-color: rgb(172, 199, 50);
+        
+        }
+        
+          #table2{
+         display: flex;
+        height: 6px ;
+        width: 6px;
+      
+       
+}
+        
+        #table3{
+            display: flex;
+           height: 9px ;
+           width: 9px;
+         
+           } 
+                     
+}; 
+ @media only screen and (min-width: 768px){
+    body{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        max-height: 100vh;
+        width: 100%;
+        margin-right: 40px;
+        margin-left: 40px;
+        margin-top: 40px;
+        }
+         
+        
+        
+        
+        #tableA,#tableB, #tableC, #tableD, #tableE, #tableF, #tableG, #tableH, #tableI, #tableJ{
+        display: table-cell;
+        height: 300px;
+        width: 400px;
+        border-radius: 8px;
+        margin-bottom: 20px;
+        font-size: 1rem;
+        color: black;
+        text-align: center;
+        line-height: 25px;
+     background-color: rgb(121, 220, 238);
+        
+        
+        
+        }
+        
+        #table2{
+         display: table-cell;
+        height: 300px ;
+        width: 10px;
+        border-radius: 8px;
+        }
+        
+        #table3{
+            display: table-cell;
+           height: 10px ;
+           width: 186vh;
+           border-radius: 8px;
+           }
+        
+ }
+        
+@media only screen and (min-width: 992px){
+    body{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        max-height: 100vh;
+        width: 100%;
+        margin-right: 40px;
+        margin-left: 40px;
+        margin-top: 40px;
+        }
+         
+        
+        
+        
+        #tableA,#tableB, #tableC, #tableD, #tableE, #tableF, #tableG, #tableH, #tableI, #tableJ{
+        display: table-cell;
+        height: 300px;
+        width: 400px;
+        border-radius: 8px;
+        margin-bottom: 20px;
+        font-size: 1rem;
+        color: black;
+        text-align: center;
+        line-height: 25px;
+        background-color: rgb(10, 63, 26);
+        
+        
+        
+        }
+        
+        #table2{
+         display: table-cell;
+        height: 300px ;
+        width: 20px;
+        border-radius: 8px;
+        }
+        
+        #table3{
+            display: table-cell;
+           height: 10px ;
+           width: 186vh;
+           border-radius: 8px;
+           }
+        
+    
+}
+@media only screen and (min-width: 1200px){
+    body{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        max-height: 100vh;
+        width: 100%;
+        margin-right: 40px;
+        margin-left: 40px;
+        margin-top: 40px;
+        }
+         
+     
+        
+        
+        #tableA,#tableB, #tableC, #tableD, #tableE, #tableF, #tableG, #tableH, #tableI, #tableJ{
+        display: table-cell;
+        height: 300px;
+        width: 400px;
+        border-radius: 8px;
+        margin-bottom: 20px;
+        font-size: 1rem;
+        color: black;
+        text-align: center;
+        line-height: 25px;
+        background-color: rgb(235, 231, 231);
+        }
+        
+        #table2{
+         display: table-cell;
+        height: 300px ;
+        width: 20px;
+        border-radius: 8px;
+        }
+        
+        #table3{
+            display: table-cell;
+           height: 10px ;
+           width: 186vh;
+           border-radius: 8px;
+           }
+           
+}
+     
+
+    
+
+ 
